@@ -20,7 +20,7 @@ To run the app, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/kareem229/KareemQuizApp/
+git clone https://github.com/kareem229/KareemQuizApp.git
 ```
 
 2. Navigate to the project directory:
@@ -48,7 +48,7 @@ python project.py
 
 ## Contributors
 
-- [Your Name](https://github.com/kareem229)
+- [Kareem Abduljawad](https://github.com/kareem229)
 
 ## Credits
 
