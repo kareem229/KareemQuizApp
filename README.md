@@ -1,9 +1,9 @@
 
-# Ex-Quiz-It
+# Kareem Quiz App
 
 ## Overview
 
-Ex-Quiz-It is a simple quiz application developed using Python's tkinter library and the Open Trivia Database API. It presents users with multiple-choice questions retrieved from the API and allows them to select their answers through radio buttons. After answering each question, users receive instant feedback on whether their answer was correct or not. At the end of the quiz, the application displays the user's score as a percentage along with the number of correct and incorrect answers.
+Kareem Quiz App is a simple quiz application developed using Python's tkinter library and the Open Trivia Database API. It presents users with multiple-choice questions retrieved from the API and allows them to select their answers through radio buttons. After answering each question, users receive instant feedback on whether their answer was correct or not. At the end of the quiz, the application displays the user's score as a percentage along with the number of correct and incorrect answers.
 
 ## Features
 
@@ -15,18 +15,18 @@ Ex-Quiz-It is a simple quiz application developed using Python's tkinter library
 
 ## Installation
 
-To run Ex-Quiz-It, follow these steps:
+To run the app, follow these steps:
 
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Ex-Quiz-It.git
+git clone https://github.com/kareem229/KareemQuizApp/
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Ex-Quiz-It
+cd KareemQuizApp/
 ```
 
 
@@ -48,7 +48,7 @@ python project.py
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
+- [Your Name](https://github.com/kareem229)
 
 ## Credits
 
